@@ -4,9 +4,9 @@ I am Full Stack Developer from Poland, I mainly use .NET CORE for creating REST 
 
 
 ## :question: About Me :
-- :mortar_board: Currently I am doing my masters degree at Wrocław University of Science and Technology,
+- :mortar_board: Currently I am looking for a job,
 - :smiley: I like to learn and try new things,
-- :blue_book: At this moment I am honing my skills on UI/UX design,
+- :blue_book: At this moment I am developing ArkQuiz,
 - :zap: In my free time, I like to do a course on udemy or build and paint plastic model kits, especially GUNPLA.
 
 
