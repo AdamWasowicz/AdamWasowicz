@@ -1,5 +1,5 @@
 # Hi my name is Adam Wąsowicz
-I am Full Stack Developer from Poland, I mainly use .NET CORE for creating REST APIs and React to create Front End part of the app. I use Docker for containerization. You can see somme of my projects with their respective tech stacks.
+I am Full Stack Developer from Poland, I mainly use .NET CORE for creating REST APIs and React to create Front End part of the app. I use Docker for containerization. You can see some of my projects with their respective tech stacks.
 
 
 
