@@ -6,7 +6,7 @@ I am Full Stack Developer from Poland, I mainly use .NET CORE for creating REST 
 ## :question: About Me :
 - :mortar_board: M.Sc in Computer Science,
 - :smiley: I like to learn and try new things,
-- :blue_book: At this moment I am developing ArkQuiz,
+- :blue_book: At this moment I am developing Next.js + Express.js app,
 - :zap: In my free time, I like to do a course on udemy or build and paint plastic model kits, especially GUNPLA.
 
 
